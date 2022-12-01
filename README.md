@@ -9,7 +9,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - This challenge allows users to generate unique, robust passwords with a set of criteria agreed to by the user. This solves the problem of having to think of one yourself, and ensures that the password is non-guessable and random.
 - Through building this application, I learnt that there are many programming skills outside of what we learn throughout the week, and that research and collaboration is critical in order to achieve the best outcome for each project.
 
-![Screenshot](assets/images/password-generator-screenshot.png)
+![Screenshot](/assets/images/password-generator-screenshot.png)
 
 ## Usage
 
