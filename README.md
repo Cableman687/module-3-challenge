@@ -13,7 +13,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Usage
 
-
+https://cableman687.github.io/module-3-challenge/
 
 This respository is to be accessed by the user in order to generate unique passwords with specific criteria met.
 
@@ -28,11 +28,9 @@ Number Entry Validation Techniques:
 https://mkyong.com/javascript/check-if-variable-is-a-number-in-javascript/
 
 
-
 ## License
 
 MIT
-
 
 
 ## How to Contribute
